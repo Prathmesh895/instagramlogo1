@@ -2,13 +2,13 @@
     width: 530px;
     height: 530px;
     margin: 0 auto;
-    margin-top: 10px;
+    margin-top: 300px;
     /*background-color:red;*/
     background:radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, #9b36b7 85%, #515ecf);
     border: 1px;
     border-radius: 3cm;
     position: relative;
-    place-items: center;                 
+    place-items: center;                
     
 }
 .b{
